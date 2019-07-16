@@ -22,9 +22,9 @@ COREA | ? <sup>[3](#note3)</sup> | ? | nominal coreference
 
 ### Notes
 
-<a name="note1">1</a>: on four topics: Airbus and Boeing, Apple Inc., Stock market, and General Motors, Chrysler and Ford 
-<a name="note2">2</a>: [*internal note*] available on scistor 
-<a name="note3">3</a>: [*internal note*] check scistor  
+* <a name="note1">1</a>: on four topics: Airbus and Boeing, Apple Inc., Stock market, and General Motors, Chrysler and Ford 
+* <a name="note2">2</a>: [*internal note*] available on scistor 
+* <a name="note3">3</a>: [*internal note*] check scistor  
 
 ## TO DO
 
